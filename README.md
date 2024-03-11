@@ -1,7 +1,7 @@
 <H3>NAME : Kiran J</H3>
 <H3>REGISTER NO : 212221240022</H3>
 <H3>EX. NO.3</H3>
-<H3>DATE: 26.02.2023</H3>
+<H3>DATE: 07.02.2023</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
